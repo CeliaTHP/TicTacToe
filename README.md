@@ -1,3 +1,5 @@
+ADD CHOIX DES SIGNES
+
 Pour lancer le jeu -> ruby app.rb
 
 Jeu du MORPION : 
